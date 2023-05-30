@@ -15,13 +15,13 @@
     <Darkmode />
   </header>
   <p data-animate use:animate>
-    Working on crafting polished & user-friendly web experiences. Intern at
-    <a href="https://183degrees.com" class="link" target="_blank">183°</a>.
+    Information Technology student attending the University of Cincinnati.
+    Specialized in front-end web development & design. May 2025 exp. graduation.
   </p>
   <br />
   <p data-animate use:animate>
-    Information Technology student attending the University of Cincinnati.
-    Specialized in front-end web development & design. May 2025 exp. graduation.
+    Working on crafting polished & user-friendly web experiences. Intern at
+    <a href="https://183degrees.com" class="link" target="_blank">183°</a>.
   </p>
   <br />
   <p data-animate use:animate>
@@ -99,7 +99,7 @@
         <div class="repo">
           <i class="fa-solid fa-code w-4" />
           <a
-            href="https://www.github.com/steelesh/IdeaStorm"
+            href="https://www.github.com/steelesh/AltruCode"
             target="_blank"
             class="link ml-2">Source code</a
           >
@@ -147,7 +147,7 @@
         <div class="repo">
           <i class="fa-solid fa-code w-4" />
           <a
-            href="https://www.github.com/steelesh/IdeaStorm"
+            href="https://www.github.com/steelesh/100"
             target="_blank"
             class="link ml-2">Source code</a
           >
@@ -168,7 +168,7 @@
         <div class="repo">
           <i class="fa-solid fa-code w-4" />
           <a
-            href="https://www.github.com/steelesh/IdeaStorm"
+            href="https://www.github.com/steelesh/Library"
             target="_blank"
             class="link ml-2">Source code</a
           >
